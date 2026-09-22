@@ -2,7 +2,7 @@
 
 ### 下载地址：[点我](https://pan.yydy.link:9527/share/vyos)
 
-### 使用指导：[UCloud 云主机 DD 成 VyOS 软路由](https://blog.yydy.link/archives/1889.html);[AWS 云主机 DD 成 VyOS 软路由](https://yangpin.link/archives/1890.html)
+### 使用指导：[UCloud 云主机 DD 成 VyOS 软路由](https://blog.yydy.link/archives/1889.html);[AWS 云主机 DD 成 VyOS 软路由](https://blog.yydy.link/archives/1890.html)
 
 **1、镜像构建时间：2024年8月3日。**
 
